@@ -1,4 +1,4 @@
-# Submission Helper / 投稿辅助工具
+﻿# Submission Helper / 投稿辅助工具
 
 > 学术投稿全环节实战工具箱 —— 从 Cover Letter 到 Rebuttal，一站式搞定。
 
@@ -53,3 +53,7 @@ All journal names, paper titles, author names, and reviewer comments in examples
 ## 版本 / Version
 
 v1.0.0 — 2026-06-22
+
+---
+
+作者：刘楠
