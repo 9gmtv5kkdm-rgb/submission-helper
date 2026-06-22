@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": {
+    "submission-helper": {
+      "name": "投稿辅助工具",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=submission-helper",
+      "source": "community",
+      "version": "1.0.0",
+      "installedAt": "2026-06-22T09:23:05Z"
+    }
+  }
+}
